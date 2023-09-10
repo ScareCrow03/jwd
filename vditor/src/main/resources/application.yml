@@ -1,0 +1,4 @@
+upload:
+  path: /root/upload
+server:
+  port: 8080
