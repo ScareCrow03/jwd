@@ -1,0 +1,22 @@
+.smallbar{
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: white;
+    z-index: 9;
+}
+.btnbar{
+    margin-top: -13px;
+    margin-left: 350px;
+}
+.ansbtn{
+    margin:7px;
+}
+.background{
+    background-color:rgb(246, 246, 246);
+}
+.writebtn{
+    width:120px;
+    height:30px;
+}

@@ -1,0 +1,9 @@
+.root{
+    width: 800px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
