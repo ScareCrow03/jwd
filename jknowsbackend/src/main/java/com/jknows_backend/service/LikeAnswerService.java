@@ -1,0 +1,15 @@
+package com.jknows_backend.service;
+
+import com.jknows_backend.entity.LikeAnswer;
+
+import java.util.List;
+
+public interface LikeAnswerService {
+
+
+    List<LikeAnswer> getLikeAnswer(int userId);
+
+    void saveLikeAnswer(int userId, int answerId, int liked);
+
+    String isLikeAnswer(int userId, int answerId);
+}
